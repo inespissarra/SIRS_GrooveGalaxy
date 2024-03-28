@@ -1,6 +1,7 @@
 # GrooveGalaxy
 
 Network and Computer Security Project (MEIC-A, Instituto Superior Técnico, 2023/2024)
+
 Grade: 19/20
 
 ## Team
